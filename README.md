@@ -22,7 +22,7 @@ Traficoo est une application moderne et intuitive qui vous permet de visualiser,
 
 ---
 
-## 🚀 Lancer le projet en local
+## Lancer le projet en local
 
 ### Prérequis
 
